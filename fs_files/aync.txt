@@ -1,0 +1,2 @@
+here the result which includes
+        both the data of first file: hello this is to test the write file syncthis is the appended line.., and second file: this is the second demo file to check the file system module..
